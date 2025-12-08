@@ -187,7 +187,6 @@ function mostrarsaudacao(){
      saudacao.textContent = `Ola, ${nome}! Seja bem vindo(a)`;
 }
 
-
 </script>
 
 </body>
